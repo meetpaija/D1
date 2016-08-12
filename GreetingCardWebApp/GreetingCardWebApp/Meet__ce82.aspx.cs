@@ -50,7 +50,7 @@ namespace GreetingCardWebApp
                 // Select the first border option.
                 lstBorder.SelectedIndex = 0;
                 // Set the picture.
-                imgDefault.ImageUrl = "defaultpic.png";
+                imgDefault.ImageUrl = "22.jpg";
             }
         }
         protected void cmdUpdate_Click(object sender, EventArgs e)

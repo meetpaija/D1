@@ -133,6 +133,7 @@
     <Content Include="Account\Register.aspx" />
     <Content Include="Account\RegisterExternalLogin.aspx" />
     <Content Include="ce_82\CE_82_v1.aspx" />
+    <Content Include="ce_82\CE_82_v2.aspx" />
     <Content Include="Contact.aspx" />
     <Content Include="Content\Site.css" />
     <Content Include="Content\themes\base\images\ui-bg_flat_0_aaaaaa_40x100.png" />
@@ -300,6 +301,13 @@
     </Compile>
     <Compile Include="ce_82\CE_82_v1.aspx.designer.cs">
       <DependentUpon>CE_82_v1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ce_82\CE_82_v2.aspx.cs">
+      <DependentUpon>CE_82_v2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ce_82\CE_82_v2.aspx.designer.cs">
+      <DependentUpon>CE_82_v2.aspx</DependentUpon>
     </Compile>
     <Compile Include="Contact.aspx.cs">
       <DependentUpon>Contact.aspx</DependentUpon>

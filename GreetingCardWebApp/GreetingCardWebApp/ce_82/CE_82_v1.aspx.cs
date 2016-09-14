@@ -8,7 +8,7 @@ using System.Drawing;
 
 namespace GreetingCardWebApp
 {
-    public partial class Meet__ce82 : System.Web.UI.Page
+    public partial class CE_82_v1 : System.Web.UI.Page
     {
         protected void Page_Load(object sender, EventArgs e)
         {
@@ -73,8 +73,8 @@ namespace GreetingCardWebApp
             // Update the picture.
             if (chkPicture.Checked)
             {
-                imgDefault.ImageUrl = "22.jpg";
-                
+                imgDefault.ImageUrl = "download.jpg";
+
             }
             else
             {

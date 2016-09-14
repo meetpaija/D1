@@ -10,7 +10,7 @@
 namespace GreetingCardWebApp {
     
     
-    public partial class Meet__ce82 {
+    public partial class CE_82_v1 {
         
         /// <summary>
         /// form1 control.
